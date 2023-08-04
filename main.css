@@ -17,3 +17,12 @@
   text-align: center;
   text-transform: uppercase;
 }
+.footer {
+  background-color: #ef0ba3;
+  padding: 50px;
+  font-size: 32px;
+  text-align: center;
+  font-family: serif;
+  color: aliceblue;
+  text-transform: uppercase;
+}
